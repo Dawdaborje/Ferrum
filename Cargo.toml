@@ -4,11 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-slint = { version = "1.10.0", features = [
-    "backend-winit",
-    "renderer-winit-femtovg",
-    "renderer-winit-skia",
-] }
-
-[build-dependencies]
-slint-build = "1.8.0"
+urlencoding = "2.1.3"
