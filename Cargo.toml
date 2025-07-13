@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+eframe = "0.32.0"
+egui = "0.32.0"
+egui-phosphor = "0.10.0"
 urlencoding = "2.1.3"
